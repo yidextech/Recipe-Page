@@ -1,6 +1,6 @@
 # Recipe page
 
-# (./preview.jpg)
+ [./preview.jpg]
 
 ## Welcome! 👋
 
