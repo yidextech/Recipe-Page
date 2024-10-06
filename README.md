@@ -1,6 +1,6 @@
 # Recipe page
 
- (./preview.jpg)
+![Design preview for the Recipe page coding challenge](./preview.jpg)
 
 ## Welcome! 👋
 
