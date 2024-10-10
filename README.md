@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-## I created a sim Recipe Page
+## I created a simple Recipe Page
 
 ## Challenge from [Frontend mentor](https://www.frontendmentor.io)
 
