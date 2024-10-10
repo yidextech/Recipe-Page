@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-## I created a s Recipe Page
+## I created a si Recipe Page
 
 ## Challenge from [Frontend mentor](https://www.frontendmentor.io)
 
